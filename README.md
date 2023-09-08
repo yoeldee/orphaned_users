@@ -2,7 +2,7 @@
 
 The purpose of this simple free Zendesk App is to highlight those users who are no link to an organization. Clicking on the name of the user will open a the user details so you can easily access the "org" field for update.
 
-Please submit requests or bug reports to yoeld@gmx.net. Pull requests are welcome.
+Please submit requests or bug reports to yoeld@gmx.com. Pull requests are welcome.
 
 ## Copyright and license
 
